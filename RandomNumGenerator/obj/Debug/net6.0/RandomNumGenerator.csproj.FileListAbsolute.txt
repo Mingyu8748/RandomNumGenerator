@@ -1,0 +1,15 @@
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/bin/Debug/net6.0/RandomNumGenerator
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/bin/Debug/net6.0/RandomNumGenerator.deps.json
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/bin/Debug/net6.0/RandomNumGenerator.runtimeconfig.json
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/bin/Debug/net6.0/RandomNumGenerator.dll
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/bin/Debug/net6.0/RandomNumGenerator.pdb
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/obj/Debug/net6.0/RandomNumGenerator.csproj.AssemblyReference.cache
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/obj/Debug/net6.0/RandomNumGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/obj/Debug/net6.0/RandomNumGenerator.AssemblyInfoInputs.cache
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/obj/Debug/net6.0/RandomNumGenerator.AssemblyInfo.cs
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/obj/Debug/net6.0/RandomNumGenerator.csproj.CoreCompileInputs.cache
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/obj/Debug/net6.0/RandomNumGenerator.dll
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/obj/Debug/net6.0/refint/RandomNumGenerator.dll
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/obj/Debug/net6.0/RandomNumGenerator.pdb
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/obj/Debug/net6.0/RandomNumGenerator.genruntimeconfig.cache
+/Users/mingyuliu/RiderProjects/RandomNumGenerator/RandomNumGenerator/obj/Debug/net6.0/ref/RandomNumGenerator.dll
